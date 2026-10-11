@@ -1,0 +1,4 @@
+interface:
+  display_name: "单竞品研究"
+  short_description: "按五层研究竞品，并在每层结束时和我讨论发现与下一步"
+  default_prompt: "请用 $single-competitor-analysis 按五层研究这个产品，每完成一层先和我讨论发现和下一步。"
